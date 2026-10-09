@@ -1,7 +1,9 @@
 # Proyek Akuisisi dan Manajemen Data
 
 Mata kuliah : BIFP-243 Akuisisi dan Manajemen Data
+
 Nama / NIM  : Ni Made Nia Paramita / 2501010376
+
 Tujuan      : Menyiapkan environment dan struktur proyek untuk proses akuisisi dan manajemen data.
 
 ## Struktur Folder
